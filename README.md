@@ -6,7 +6,7 @@ Proceso de vigilancia tecnológica para identificar oportunidades y amenazas en 
 ![image](https://github.com/user-attachments/assets/101f44b8-1bcd-4e72-b56b-abfff62f2e8e)
 ![image](https://github.com/user-attachments/assets/faa44a2e-4122-4d1f-b3c7-b70ec5e3a685)
 <br>
-Se puede evidencias un aumento en las matrículas y una disminución en los ingresados, posiblemente porque las 
+Se puede evidenciar un aumento en las matrículas y una disminución en los ingresados, posiblemente porque las 
 universidades están trasladando su oferta educativa a otros sectores como la ciencia de datos. 
 ### Ingeniería de Sistemas
 ![image](https://github.com/user-attachments/assets/4df9325c-eeb8-402e-bba7-731010962528)
