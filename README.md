@@ -16,5 +16,5 @@ universidades están trasladando su oferta educativa a otros sectores como la ci
 Se puede evidenciar el crecimiento que tiene la ingeniería de sistemas en comparación de la ingeniería electrónica.
 Esto demuestra tanto la diferencia en cuanto a oferta educativa, las necesidades actuales y el atractivo
 que tiene esta carrera con respecto a electrónica.
-<br>
+## Fuentes
 Datos provenientes de la Asociación Colombiana de Facultades de Ingeniería.
